@@ -14,28 +14,26 @@ Mira **Despliegue** para conocer cómo desplegar el proyecto.
 
 _Detalle de la organización del código._
 
-Dentro de la carpeta 'src':
-
-* Assets
+* src/assets
 
 Contiene activos no compilados, como archivos Stylus o Sass, imágenes o fuentes.
 
-* Components
+* src/components
 
 Contiene los componentes de vue.js; estos conforman las diferentes partes de la página y pueden ser reutilizados e importados en páginas, diseños e incluso otros componentes.
 Más información en [Vue.js Componentes](https://es.vuejs.org/v2/guide/components.html)
 
-* Plugins
+* src/plugins
 
 Contiene los plugins de javascript que se quieren ejecutar antes de instanciar la aplicación raíz de vue.js.
 Más información en [Vue.js Plugins](https://es.vuejs.org/v2/guide/plugins.html)
 
-* Router
+* src/router
 
 Contiene las rutas de la aplicación, dentro del archivo index.js.
 Más información en [Vue.js Router](https://router.vuejs.org/guide/)
 
-* Views
+* src/views
 
 Contiene los archivos de vistas de la aplicación, las cuales son utilizadas por al menos una ruta de la aplicación.
 
