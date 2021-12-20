@@ -1,6 +1,7 @@
 # Aplicación Banco de Tiempo
 
 El presente proyecto corresponde a la realización de una aplicación web del tipo bancaria, la cual tiene como una de sus principales caracteristicas la presencia de cuentas multiusuarios, en donde los participantes pueden trabajar de manera colaborativa.
+
 Junto a esto, se destaca por implementar una nueva divisa, identificada como 'cabildos', la cual corresponde a una representación de unidades de tiempo, que podrán ser transaccionadas dentro de la aplicación.
 
 ## Comenzando 🚀
@@ -16,21 +17,26 @@ _Detalle de la organización del código._
 Dentro de la carpeta 'src':
 
 * Assets
+
 Contiene activos no compilados, como archivos Stylus o Sass, imágenes o fuentes.
 
 * Components
+
 Contiene los componentes de vue.js; estos conforman las diferentes partes de la página y pueden ser reutilizados e importados en páginas, diseños e incluso otros componentes.
 Más información en [Vue.js Componentes](https://es.vuejs.org/v2/guide/components.html)
 
 * Plugins
+
 Contiene los plugins de javascript que se quieren ejecutar antes de instanciar la aplicación raíz de vue.js.
 Más información en [Vue.js Plugins](https://es.vuejs.org/v2/guide/plugins.html)
 
 * Router
+
 Contiene las rutas de la aplicación, dentro del archivo index.js.
 Más información en [Vue.js Router](https://router.vuejs.org/guide/)
 
 * Views
+
 Contiene los archivos de vistas de la aplicación, las cuales son utilizadas por al menos una ruta de la aplicación.
 
 ## Despliegue 📦
@@ -78,7 +84,9 @@ _Herramientas utilizadas en el proyecto_
 - Hugo Arenas
 
 Estudiantes curso 'Experiencia de Usuario', semestre 2-2021.
+
 Departamento de Ingeniería Informática.
+
 Universidad de Santiago de Chile.
 
 ## Expresiones de Gratitud 🎁
